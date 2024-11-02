@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271781713996",
+    "project_id": "flightbooking-b140e",
+    "storage_bucket": "flightbooking-b140e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271781713996:android:93b1834c08bcd0e144bce9",
+        "android_client_info": {
+          "package_name": "com.example.flightbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw5ZxG-pHMvfjqHg7sD5kbB3LlLNYYlZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

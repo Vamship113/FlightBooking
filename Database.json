@@ -1,0 +1,106 @@
+{
+  "Flights": [
+    {
+      "airlineLogo": "https://github.com/user-attachments/assets/165b31ca-e50e-4eb6-acfb-b1ffe5d4c953",
+      "airlineName": "IndiGo",
+      "arriveTime": "2h 15m",
+      "classSeat": "Economy class",
+      "date": "24 Aug, 2024",
+      "from": "Mumbai",
+      "fromShort": "BOM",
+      "numberSeat": 180,
+      "price": 4500,
+      "reservedSeats": "A1,B2,C3,D4,E5,F6,G7,H8,I9,J10",
+      "time": "10:00",
+      "to": "Delhi",
+      "toShort": "DEL"
+    },
+    {
+      "airlineLogo": "https://github.com/user-attachments/assets/055d7462-6938-401f-998f-1eaa499d797a",
+      "airlineName": "Air India",
+      "arriveTime": "2h 10m",
+      "classSeat": "Economy class",
+      "date": "24 Aug, 2024",
+      "from": "Mumbai",
+      "fromShort": "BOM",
+      "numberSeat": 150,
+      "price": 4700,
+      "reservedSeats": "A1,B2,C3,D4,E5,F6,G7,H8,I9,J10",
+      "time": "12:00",
+      "to": "Delhi",
+      "toShort": "DEL"
+    },
+    {
+      "airlineLogo": "https://github.com/user-attachments/assets/ae9dade0-5e88-4a93-adb0-00eebd639fef",
+      "airlineName": "SpiceJet",
+      "arriveTime": "2h 20m",
+      "classSeat": "Economy class",
+      "date": "24 Aug, 2024",
+      "from": "Mumbai",
+      "fromShort": "BOM",
+      "numberSeat": 189,
+      "price": 4300,
+      "reservedSeats": "A1,B2,C3,D4,E5,F6,G7,H8,I9,J10",
+      "time": "14:00",
+      "to": "Delhi",
+      "toShort": "DEL"
+    },
+    {
+      "airlineLogo": "https://github.com/user-attachments/assets/ad02c82e-6fdf-4f62-a5eb-a557cabc2f24",
+      "airlineName": "Vistara",
+      "arriveTime": "2h 15m",
+      "classSeat": "Economy class",
+      "date": "24 Aug, 2024",
+      "from": "Mumbai",
+      "fromShort": "BOM",
+      "numberSeat": 158,
+      "price": 4800,
+      "reservedSeats": "A1,B2,C3,D4,E5,F6,G7,H8,I9,J10",
+      "time": "16:00",
+      "to": "Delhi",
+      "toShort": "DEL"
+    }
+  ],
+  "Locations": [
+    {
+      "Id": 0,
+      "Name": "Delhi"
+    },
+    {
+      "Id": 1,
+      "Name": "Mumbai"
+    },
+    {
+      "Id": 2,
+      "Name": "Bangalore"
+    },
+    {
+      "Id": 3,
+      "Name": "Chennai"
+    },
+    {
+      "Id": 4,
+      "Name": "Hyderabad"
+    },
+    {
+      "Id": 5,
+      "Name": "Pune"
+    },
+    {
+      "Id": 6,
+      "Name": "Kolkata"
+    },
+    {
+      "Id": 7,
+      "Name": "Jaipur"
+    },
+    {
+      "Id": 8,
+      "Name": "Goa"
+    },
+    {
+      "Id": 9,
+      "Name": "Ahmedabad"
+    }
+  ]
+}
